@@ -1,3 +1,10 @@
+"""
+Created on Thu Apr  7 22:40:47 2022
+
+@author: Anna M Frost
+         a.m.frost@pgr.reading.ac.uk
+"""
+
 ###############################################################################
 """
 This code reads in the cdfs of the orbit data and returns the array 'Orbittime'
