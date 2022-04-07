@@ -1,3 +1,10 @@
+"""
+Created on Thu Apr  7 22:40:47 2022
+
+@author: Anna M Frost
+         a.m.frost@pgr.reading.ac.uk
+"""
+
 import numpy as np
 import xarray as xr
 import datetime # python package for dealing with time
