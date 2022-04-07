@@ -1,4 +1,13 @@
 """
+Created on Thu Apr  7 22:40:47 2022
+
+@author: Anna M Frost
+         a.m.frost@pgr.reading.ac.uk
+"""
+
+
+
+"""
 This script downloads the Wind 3dp data files and saves them as a common name. 
 Lines 21 and 25 are specific recommended subfolders that keep everything tidy.
 """
