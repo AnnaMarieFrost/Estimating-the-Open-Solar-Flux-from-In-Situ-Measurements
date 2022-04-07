@@ -1,3 +1,10 @@
+"""
+Created on Thu Apr  7 22:40:47 2022
+
+@author: Anna M Frost
+         a.m.frost@pgr.reading.ac.uk
+"""
+
 ###############################################################################
 """
 This code reads in the Bow Shock Crossings from the txt files, apply to the 
